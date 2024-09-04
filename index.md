@@ -10,6 +10,6 @@ permalink: /
 
 <!-- Centered Image -->
 <div style="text-align: center;">
-    <img src="/cover.jpg" alt="ScanDisk Cover" style="max-width: 100%; height: auto;">
+    <img src="ScanDiskEPK.github.io/cover.jpg" alt="ScanDisk Cover" style="max-width: 100%; height: auto;">
 </div>
 
