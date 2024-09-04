@@ -22,21 +22,18 @@ permalink: /
 4. Spectral London
 5. Artifact Remains
 
----
 
 ## Artist Information
 
-- **Artist**: Partial Defrag
+- **Artist Name**: Partial Defrag
 - **Location**: London, UK
-- **Genre**: Industrial, Ambient, Experimental
+- **Genre**: Experimental, Ambient, Industrial, IDM
 
----
 
 ## Press & Media
 
-For press inquiries, please contact:
+For all inquiries, please contact:
 
-- **Email**: media@partialdefrag.com
-- **Phone**: +44 20 7946 0958
+- **Email**: strata.edition@gmail.com
 
 ---
