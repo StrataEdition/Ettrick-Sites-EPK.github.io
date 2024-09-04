@@ -10,13 +10,12 @@ permalink: /
 
 *Listening & Download link for Partial Defrag 'ScanDisk' on STRATA for DJ / Radio / Press / Personal enjoyment etc etc.*
 
-For all inquiries, please contact: strata.edition@gmail.com
-
 **Release Date : 27.10.24**
 
 *Please do not share* Private Streaming / WAV download : https://bit.ly/3GYobu7
+For all inquiries, please contact: strata.edition@gmail.com
 
----
+~
 
 "*In the empty of a semi-compressed hard drive*"
 
@@ -24,7 +23,7 @@ For all inquiries, please contact: strata.edition@gmail.com
 
 <img src="cover.jpg" alt="ScanDisk Cover" class="centered-image">
 
----
+~
 
 ## Videos
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
