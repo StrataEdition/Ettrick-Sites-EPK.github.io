@@ -6,6 +6,8 @@
  */
 $base-font-family:     'Urbanist', sans-serif !default;
 $base-font-size:       13.5px !default;
+$title-font-size:      14.5px !default;
+
 $mobile-font-size:     12px !default;
 $base-line-height:     1.5 !default;
 $container-width:      90% !default;
@@ -15,8 +17,8 @@ $container-max-width:  600px !default;
  * Global
  */
 body { background-color: var(--background-color);  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  font-style: regular; color: var(--text-color);  text-align: left;  line-height: $base-line-height !important; }
-h1, h2, h3, h4, h5 { font-size: $base-font-size;  margin: 0px;  margin-top: 22px;  font-weight: bold;  font-style: extra-bold; color: var(--text-color); }
-h6 { font-size: $base-font-size;  margin: 0px;  margin-top: 22px;  font-weight: bold;  font-style: bold; color: var(--text-color); }
+h1, h2, h3, h4, h5 { font-size: $base-font-size;  margin: 0px;  margin-top: 22px;  font-weight: bold;  font-style: bold; color: var(--text-color); }
+h1 { font-size: $title-font-size;  margin: 0px;  margin-top: 22px;  font-weight: extra-bold;  font-style: bold; color: var(--text-color); }
 p, ul, ol { margin: 0px;  color: var(--text-color); }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
