@@ -8,15 +8,13 @@ permalink: /
 
 # Partial Defrag: ScanDisk
 
-Listening & Download link for Partial Defrag 'ScanDisk' on STRATA for DJ / Radio / Press / Personal enjoyment etc etc.
+*Listening & Download link for Partial Defrag 'ScanDisk' on STRATA for DJ / Radio / Press / Personal enjoyment etc etc.*
 
 For all inquiries, please contact: strata.edition@gmail.com
 
 **Release Date : 27.10.24**
 
-Please do not share. 
- 
-Private Streaming / WAV download : https://bit.ly/3GYobu7
+*Please do not share* Private Streaming / WAV download : https://bit.ly/3GYobu7
 
 ---
 
