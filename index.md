@@ -4,6 +4,9 @@ layout: home
 permalink: /
 ---
 
+# Partial Defrag: ScanDisk
+
+
 <img src="/logo.jpg" alt="Strata Logo" class="centered-image">
 
 Listening & Download link for Partial Defrag 'ScanDisk' on STRATA for DJ / Radio / Press / Personal enjoyment etc etc.
@@ -16,8 +19,7 @@ Please do not share.
  
 Private Streaming / WAV download : https://bit.ly/3GYobu7
 
-
-# Partial Defrag: ScanDisk
+---
 
 "*In the empty of a semi-compressed hard drive*"
 
