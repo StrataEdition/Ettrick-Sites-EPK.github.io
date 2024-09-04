@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-<img src="logo.png" alt="Strata Logo" class="centered-image">
+<img src="logo.png" alt="Strata Logo" class="centered-logo">
 
 # Partial Defrag: ScanDisk
 
