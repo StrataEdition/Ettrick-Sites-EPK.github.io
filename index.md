@@ -4,6 +4,19 @@ layout: home
 permalink: /
 ---
 
+<img src="/logo.jpg" alt="Strata Logo" class="centered-logo">
+
+Listening & Download link for Partial Defrag 'ScanDisk' on STRATA for DJ / Radio / Press / Personal enjoyment etc etc.
+
+For all inquiries, please contact: strata.edition@gmail.com
+
+**Release Date : 27.10.24**
+
+Please do not share. 
+ 
+Private Streaming / WAV download : https://bit.ly/3GYobu7
+
+
 # Partial Defrag: ScanDisk
 
 "*In the empty of a semi-compressed hard drive*"
@@ -25,15 +38,13 @@ permalink: /
 
 ## Artist Information
 
-- **Artist Name**: Partial Defrag
-- **Location**: London, UK
-- **Genre**: Experimental, Ambient, Industrial, IDM
+**Artist Name**: Partial Defrag
+**Location**: London, UK
+**Genre**: Experimental, Ambient, Industrial, IDM
 
 
 ## Press & Media
 
-For all inquiries, please contact:
 
-- **Email**: strata.edition@gmail.com
 
 ---
