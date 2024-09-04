@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-<img src="/logo.jpg" alt="Strata Logo" class="centered-logo">
+<img src="/logo.jpg" alt="Strata Logo" class="centered-image">
 
 Listening & Download link for Partial Defrag 'ScanDisk' on STRATA for DJ / Radio / Press / Personal enjoyment etc etc.
 
