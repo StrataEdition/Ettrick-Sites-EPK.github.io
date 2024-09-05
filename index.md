@@ -37,14 +37,6 @@ Video Production by Partial Defrag
 
 ## Videos
 This release is accompanied by three videos created by the artists using a mix of 3D scanning techniques and phone footage around London's suburbs.
-
-<!-- Embed YouTube Video -->
-<div style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/uZPCZdTdytw" 
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
-    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 [![Click to Watch: VFS](https://img.youtube.com/vi/uZPCZdTdytw/0.jpg)](https://www.youtube.com/watch?v=uZPCZdTdytw)
 
 ## Tracklist
