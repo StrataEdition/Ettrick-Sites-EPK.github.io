@@ -13,7 +13,7 @@ permalink: /
 ### Release Date: 25.10.24
 <br/>
 
-*Please do not share* Private Streaming & Download link : https://bit.ly/3GYobu7
+Private Streaming & Download link (*Please do not share*) : https://bit.ly/3GYobu7
 For all enquiries, please contact: strata.edition@gmail.com
 
 ~~
@@ -31,6 +31,7 @@ This is an audio-visual release accompanied by a limited run of 50 CDs and three
 *(click on the images to open the links)*
 [<img alt="Elmelin Video" class="centered-vid" src="elmelinVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
 [<img alt="VFS Video" class="centered-vid" src="vfsVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
+
 ---
 ## Tracklist
 
@@ -40,6 +41,7 @@ This is an audio-visual release accompanied by a limited run of 50 CDs and three
 4. Wholesalers
 5. Squat
 6. VFS
+
 ---
 ## Credits
 - Written and Produced by **Partial Defrag**
@@ -47,12 +49,9 @@ This is an audio-visual release accompanied by a limited run of 50 CDs and three
 - Mixing by **Pietro Bardini** at **RCA Studios**
 - Cover and CD Design by **Partial Defrag**
 - Videos Production by **Partial Defrag**
+  
 ---
 ## Artist Bio
 Partial Defrag (b. 9/8/24) [28/32GB] 
 *In the empty space of a semi-compressed hard drive, melodic phrases keep on playing.*
 Partial Defrag is a London-based audio-visual artist.
-<br/>
-
----
----
