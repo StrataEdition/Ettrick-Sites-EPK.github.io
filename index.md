@@ -10,10 +10,8 @@ permalink: /
 
 *Listening & Download link for Partial Defrag 'ScanDisk' on STRATA for DJ / Radio / Press / Personal enjoyment etc.*
 
-<!-- Center the release date -->
-<div style="text-align: center;">
-    **Release Date: 25.10.24**
-</div>
+###Release Date: 25.10.24
+
 
 *Please do not share* Private Streaming & Download link : https://bit.ly/3GYobu7
 For all enquiries, please contact: strata.edition@gmail.com
