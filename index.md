@@ -24,19 +24,22 @@ For all inquiries, please contact: strata.edition@gmail.com
 <img src="ScanDiskWebCover.png" alt="ScanDisk Cover" class="centered-image">
 
 ~
-
 ## Videos
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
-    <iframe src="https://www.youtube.com/embed/uZPCZdTdytw?si=rACAnEBtoM7KL7LW" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
-</div>
+This release is accompanied by three videos created by Partial Defrag. The visual works use a mix of photogrammetry and CGI to visualise a urban-industrial london at night.
+
+*Elmelin*
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uZPCZdTdytw/maxresdefault.jpg)](https://www.youtube.com/watch?v=uZPCZdTdytw)
+*VFS*
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WBuvgLH1Ne4/maxresdefault.jpg)](https://www.youtube.com/watch?v=WBuvgLH1Ne4)
 
 ## Tracklist
 
-1. Whispering Engines
-2. Ethereal Compression
-3. Fluid Motif
-4. Spectral London
-5. Artifact Remains
+1. Elmelin
+2. Bates
+3. Pulsarnet
+4. Wholesalers
+5. Squat
+6. VFS
 
 
 ## Artist Information
@@ -44,10 +47,5 @@ For all inquiries, please contact: strata.edition@gmail.com
 **Artist Name**: Partial Defrag
 **Location**: London, UK
 **Genre**: Experimental, Ambient, Industrial, IDM
-
-
-## Press & Media
-
-
 
 ---
