@@ -26,7 +26,7 @@ This is an audio-visual release accompanied by a limited run of 50 CDs and three
 
 ---
 ## Videos
-**ScanDisk** is accompanied by three videos created by the artists mixing 3D scans and phone footage of London's suburbs. The material was reassembled into fictional urban-industrial scenes. Videos and music were created at the same time, one form affecting the other ~ *(click on the images to open the links)*.
+**ScanDisk** is accompanied by three videos created by the artists mixing 3D scans and phone footage of London's suburbs. The material was reassembled into fictional urban-industrial scenes. Videos and music were created at the same time, one form affecting the other. *~(click on the images to open the links)~*
 
 [<img alt="Elmelin Video" class="centered-vid" src="elmelinVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
 [<img alt="VFS Video" class="centered-vid" src="vfsVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
