@@ -34,7 +34,7 @@ Cover and CD Design by Partial Defrag
 Video Production by Partial Defrag
 
 ## Videos
-ScanDisk is accompanied by three videos created by the artists using a mix of 3D scanning techniques and phone footage of London's suburbs. The scans were reassembled into fictional urban-industrial environments. Videos and music were created at the same time, one form directing the other.
+ScanDisk is accompanied by three videos created by the artists using a mix of 3D scanning techniques and phone footage of London's suburbs. The scans were reassembled into fictional urban-industrial environments. Videos and music were created at the same time, one form affecting the other.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uZPCZdTdytw
 " target="_blank"><img src="http://img.youtube.com/vi/uZPCZdTdytw/0.jpg" 
