@@ -44,26 +44,6 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
 }
 
 
-/* Container for the video iframe */
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
-    height: 0;
-    overflow: hidden;
-    max-width: $container-max-width;
-    margin: 0 auto; /* Center horizontally */
-}
-
-.video-container iframe {
-    position: absolute;
-    display: block;
-    margin-right: auto;  
-    margin-left: auto; 
-    width:  $container-width;
-    max-width: $container-max-width;
-    height: auto;
-    border: 0;
-}
 
 /**
  * Layout
