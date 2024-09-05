@@ -35,7 +35,10 @@ Video Production by Partial Defrag
 
 ## Videos
 This release is accompanied by three videos created by the artists using a mix of 3D scanning techniques and phone footage around London's suburbs.
-[![Click to Watch: VFS](https://img.youtube.com/vi/uZPCZdTdytw/0.jpg)](https://www.youtube.com/watch?v=uZPCZdTdytw)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uZPCZdTdytw
+" target="_blank"><img src="http://img.youtube.com/vi/uZPCZdTdytw/0.jpg" 
+alt="ELMELIN VIDEO" width="240" height="180" border="10" /></a>
 
 ## Tracklist
 
