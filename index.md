@@ -13,7 +13,7 @@ permalink: /
 ### Release Date: 25.10.24
 <br/>
 
-Private Streaming & Download link (*Please do not share*) : https://bit.ly/3GYobu7
+[Private Streaming & Download link](https://www.openai.com) (*Please do not share*)
 For all enquiries, please contact: **strata.edition@gmail.com**
 
 ---
