@@ -27,7 +27,8 @@ For all inquiries, please contact: strata.edition@gmail.com
 ## Videos
 This release is accompanied by three videos created by Partial Defrag. The visual works use a mix of photogrammetry and CGI to visualise a urban-industrial london at night.
 
-*Clik on the images to open the links*
+*(Click on the images to open the links)*
+~
 *[Elmelin]*
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uZPCZdTdytw/maxresdefault.jpg)](https://www.youtube.com/watch?v=uZPCZdTdytw)
 *[VFS]*
