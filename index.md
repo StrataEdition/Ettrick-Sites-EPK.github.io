@@ -38,6 +38,8 @@ ScanDisk is accompanied by three videos created by the artists using a mix of 3D
 <br>
 *(click on the images to open the links)*
 
+[<img src="elmelinVid.jpg" alt="Strata Logo"](https://www.youtube.com/watch?v=uZPCZdTdytw)
+
 [<img alt="Elmelin Video" width="80px" src="elmelinVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
 [<img alt="VFS Video" width="80px" src="vfsVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
 
