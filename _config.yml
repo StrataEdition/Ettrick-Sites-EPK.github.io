@@ -3,8 +3,8 @@
 google_analytics: G-SGEY1038BF
 
 header_pages:
-index.md
-contact.md
+- index.md
+- contact.md
 
 footer: 'Find STRATA on <a href="https://www.instagram.com/strata.edition/"> Instagram </a>'
 
