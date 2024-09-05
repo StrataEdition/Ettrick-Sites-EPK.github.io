@@ -28,6 +28,7 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 50%;  
     max-width: $container-max-width;
     height: auto;
 }
