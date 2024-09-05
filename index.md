@@ -8,7 +8,7 @@ permalink: /
 
 # Partial Defrag: ScanDisk [STRATA]
 
-*Listening & Download link for Partial Defrag 'ScanDisk' on STRATA for DJ / Radio / Press / Personal enjoyment etc.*
+Listening & Download link for Partial Defrag *ScanDisk* on STRATA for DJ / Radio / Press / Personal enjoyment etc.
 
 ### Release Date: 25.10.24
 <br/>
@@ -17,7 +17,7 @@ permalink: /
 For all enquiries, please contact: **strata.edition@gmail.com**
 
 ---
-**ScanDisk** is the debut release of London-based artist **Partial Defrag**. Whispered voices, car engines, and ethereal club anthems are cut up, compressed, and congealed into a fluid, late-night motif for a spectral, industrial London. Partial Defrag’s free-form compositions are the leftovers of a hard drive compression: space-optimized memories tainted with artifacts.
+**ScanDisk** is the debut release of London-based artist **Partial Defrag**. Whispered voices, car engines, and ethereal club anthems are cut up, compressed, and congealed into a fluid, late-night motif for a spectral, industrial London. Partial Defrag’s free-form compositions are the leftovers of a hard drive compression: space-optimised memories tainted with artifacts.
 
 This is an audio-visual release accompanied by a limited run of 50 CDs and three videos.
 
