@@ -35,17 +35,12 @@ Video Production by Partial Defrag
 
 ## Videos
 ScanDisk is accompanied by three videos created by the artists using a mix of 3D scanning techniques and phone footage of London's suburbs. The scans were reassembled into fictional urban-industrial environments. Videos and music were created at the same time, one form affecting the other.
+<br>
+*(click on the images to open the links)*
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=uZPCZdTdytw
-" target="_blank"><img src="http://img.youtube.com/vi/uZPCZdTdytw/0.jpg" 
-alt="ELMELIN VIDEO" width="240" height="180" border="10" /></a>
+[<img alt="Elmelin Video" width="40px" src="elmelinVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
+[<img alt="VFS Video" width="40px" src="vfsVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
 
-[![ELMELIN VIDEO](http://img.youtube.com/vi/uZPCZdTdytw/0.jpg)](http://www.youtube.com/watch?v=uZPCZdTdytw)
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WBuvgLH1Ne4
-" target="_blank"><img src="http://img.youtube.com/vi/WBuvgLH1Ne4/0.jpg" 
-alt="VFS VIDEO" width="240" height="180" border="10" /></a>
 
 ## Tracklist
 
