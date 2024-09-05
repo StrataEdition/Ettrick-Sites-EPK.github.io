@@ -30,9 +30,8 @@ This release is accompanied by three videos created by the artists using a mix o
 *(Click on the images to open the links)*
 ~
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uZPCZdTdytw/0.jpg)](https://www.youtube.com/watch?v=uZPCZdTdytw)
-+
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WBuvgLH1Ne4/0.jpg)](https://www.youtube.com/watch?v=WBuvgLH1Ne4)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/{uZPCZdTdytw})](https://youtu.be/{uZPCZdTdytw})
+[![](https://markdown-videos-api.jorgenkh.no/youtube/{WBuvgLH1Ne4})](https://youtu.be/{WBuvgLH1Ne4})
 
 ## Tracklist
 
@@ -43,11 +42,5 @@ This release is accompanied by three videos created by the artists using a mix o
 5. Squat
 6. VFS
 
-
-## Artist Information
-
-**Artist Name**: Partial Defrag
-**Location**: London, UK
-**Genre**: Experimental, Ambient, Industrial, IDM
 
 ---
