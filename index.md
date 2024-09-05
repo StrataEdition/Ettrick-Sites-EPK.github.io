@@ -45,7 +45,7 @@ This release is accompanied by three videos created by the artists using a mix o
     clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/WBuvgLH1Ne4)](https://youtu.be/WBuvgLH1Ne4)
+[![Click to Watch: VFS](https://img.youtube.com/vi/uZPCZdTdytw/0.jpg)](https://www.youtube.com/watch?v=uZPCZdTdytw)
 
 ## Tracklist
 
