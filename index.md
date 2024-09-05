@@ -16,7 +16,7 @@ permalink: /
 Private Streaming & Download link (*Please do not share*) : https://bit.ly/3GYobu7
 For all enquiries, please contact: strata.edition@gmail.com
 
-~~
+---
 
 "*In the empty of a semi-compressed hard drive*"
 
@@ -29,8 +29,8 @@ This is an audio-visual release accompanied by a limited run of 50 CDs and three
 
 ---
 ## Videos
-**ScanDisk** is accompanied by three videos created by the artists using a mix of 3D scanning techniques and phone footage of London's suburbs. The scans were reassembled into fictional urban-industrial environments. Videos and music were created at the same time, one form affecting the other.
-*(click on the images to open the links)*
+**ScanDisk** is accompanied by three videos created by the artists using a mix of 3D scanning techniques and phone footage of London's suburbs. The scans were reassembled into fictional urban-industrial environments. Videos and music were created at the same time, one form affecting the other. *(Click on the images to open the links)*.
+
 [<img alt="Elmelin Video" class="centered-vid" src="elmelinVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
 [<img alt="VFS Video" class="centered-vid" src="vfsVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
 
