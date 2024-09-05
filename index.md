@@ -25,6 +25,8 @@ For all enquiries, please contact: strata.edition@gmail.com
 This is an audio-visual release accompanied by a limited run of 50 CDs and three videos.
 
 <img src="ScanDiskWebCover.png" alt="ScanDisk Cover" class="centered-image">
+<img src="cdCover.jpg" alt="ScanDisk CD" class="centered-image">
+
 ---
 ## Videos
 **ScanDisk** is accompanied by three videos created by the artists using a mix of 3D scanning techniques and phone footage of London's suburbs. The scans were reassembled into fictional urban-industrial environments. Videos and music were created at the same time, one form affecting the other.
@@ -41,6 +43,7 @@ This is an audio-visual release accompanied by a limited run of 50 CDs and three
 4. Wholesalers
 5. Squat
 6. VFS
+   
 
 ---
 ## Credits
@@ -49,7 +52,8 @@ This is an audio-visual release accompanied by a limited run of 50 CDs and three
 - Mixing by **Pietro Bardini** at **RCA Studios**
 - Cover and CD Design by **Partial Defrag**
 - Videos Production by **Partial Defrag**
-  
+
+
 ---
 ## Artist Bio
 Partial Defrag (b. 9/8/24) [28/32GB] 
