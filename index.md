@@ -43,14 +43,14 @@ This is an audio-visual release accompanied by a limited run of 50 CDs and three
 
 
 ## Credits
-└  Written and Produced by **Partial Defrag**
-└  Mastering by **Fausto Mercier**
-└  Mixing by **Pietro Bardini** at **RCA Studios**
-└  Cover and CD Design by **Partial Defrag**
-└  Video Production by **Partial Defrag**
-
+- Written and Produced by **Partial Defrag**
+- Mastering by **Fausto Mercier**
+- Mixing by **Pietro Bardini** at **RCA Studios**
+- Cover and CD Design by **Partial Defrag**
+- Videos Production by **Partial Defrag**
 
 ## Artist Bio
+
 Partial Defrag (b. 9/8/24) [28/32GB] 
 *In the empty space of a semi-compressed hard drive, melodic phrases keep on playing.*
 Partial Defrag is a London-based audio-visual artist.
