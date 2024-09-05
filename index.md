@@ -25,14 +25,14 @@ For all inquiries, please contact: strata.edition@gmail.com
 
 ~
 ## Videos
-This release is accompanied by three videos created by Partial Defrag. The visual works use a mix of photogrammetry and CGI to visualise a urban-industrial london at night.
+This release is accompanied by three videos created by the artists using a mix of 3D scanning techniques and phone footage around London's suburbs.
 
 *(Click on the images to open the links)*
 ~
-*[Elmelin]*
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uZPCZdTdytw/maxresdefault.jpg)](https://www.youtube.com/watch?v=uZPCZdTdytw)
-*[VFS]*
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WBuvgLH1Ne4/maxresdefault.jpg)](https://www.youtube.com/watch?v=WBuvgLH1Ne4)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uZPCZdTdytw/0.jpg)](https://www.youtube.com/watch?v=uZPCZdTdytw)
++
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WBuvgLH1Ne4/0.jpg)](https://www.youtube.com/watch?v=WBuvgLH1Ne4)
 
 ## Tracklist
 
