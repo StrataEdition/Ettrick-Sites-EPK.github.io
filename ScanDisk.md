@@ -24,7 +24,7 @@ For all enquiries, please contact: **strata.edition@gmail.com**
 <img src="ScanDiskWebCover.png" alt="ScanDisk Cover" class="centered-image">
 ---
   
-This is an audio-visual release accompanied by a limited run of 50 Colored CDs and three videos. CDs will be availble to purchase on Bandcamp.
+This is an audio-visual release accompanied by three videos a limited run of 50 Blue CDs, packaged in anti-static hard drive bags and custom ScanDisk stickers.
 <img src="Scan Disck Scanned.jpg" alt="ScanDisk CD" class="centered-image">
   
 ---
