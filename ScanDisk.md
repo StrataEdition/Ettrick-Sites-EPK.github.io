@@ -12,7 +12,7 @@ Listening & Download link for Partial Defrag *ScanDisk* on STRATA for Radio X Pr
 
 ### Release Date: 29.11.24
 <br/>
-[Private Streaming & Download link](https://www.openai.com) (*Please do not share*)
+[Private Streaming & Download link](hello) (*Please do not share*)
 For all enquiries, please contact: **strata.edition@gmail.com**
 
 ---
