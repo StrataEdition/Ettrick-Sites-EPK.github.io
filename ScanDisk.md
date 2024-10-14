@@ -17,7 +17,7 @@ For all enquiries, please contact: **strata.edition@gmail.com**
 
 ---
 
-*“A hard drive storing the after-dark, compressed and space-optimised in a partial burial.”*
+*“A hard drive storing the after-dark, compressed and space-optimised.”*
 
 **ScanDisk** is the debut release of London-based artist **Partial Defrag**. Whispered voices, car engines, and ethereal club hooks are cut up, compressed, and congealed into a fluid, late-night motif for a spectral, industrial London. Partial Defrag’s free-form compositions are the leftovers of a hard drive compression: space-optimised memories tainted with artifacts.
 
