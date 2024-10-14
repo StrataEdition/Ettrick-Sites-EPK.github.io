@@ -34,8 +34,9 @@ This is an audio-visual release accompanied by three videos and a limited run of
 **ScanDisk** is accompanied by three videos created by the artists mixing 3D scans and phone footage of London's suburbs. The material was reassembled into fictional urban-industrial scenes. 
 
 *~(click to open)~*
-[<img alt="Elmelin Video" class="centered-vid" src="elmelinVid.jpg" />](https://youtu.be/npcC32gz2KQ)
-[<img alt="VFS Video" class="centered-vid" src="vfsVid.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
+[<img alt="Elmelin Video" class="centered-vid" src="ElmelinCover.jpg" />](https://youtu.be/npcC32gz2KQ)
+[<img alt="VFS Video" class="centered-vid" src="VFSCover.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
+[<img alt="Squat Video" class="centered-vid" src="SquatCover.jpg" />](https://youtu.be/7Kc14oB4bHU)
 
 ---
 ## Tracklist
