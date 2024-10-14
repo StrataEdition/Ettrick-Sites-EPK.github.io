@@ -22,8 +22,9 @@ For all enquiries, please contact: **strata.edition@gmail.com**
 **ScanDisk** is the debut release of London-based artist **Partial Defrag**. Whispered voices, car engines, and ethereal club hooks are cut up, compressed, and congealed into a fluid, late-night motif for a spectral, industrial London. Partial Defrag’s free-form compositions are the leftovers of a hard drive compression: space-optimised memories tainted with artifacts.
   
 <img src="ScanDiskWebCover.png" alt="ScanDisk Cover" class="centered-image">
+
 ---
-  
+
 This is an audio-visual release accompanied by three videos and a limited run of 50 Blue CDs, packaged in anti-static hard drive bags and a custom ScanDisk sticker.
 <img src="Scan Disck Scanned.jpg" alt="ScanDisk CD" class="centered-image">
   
