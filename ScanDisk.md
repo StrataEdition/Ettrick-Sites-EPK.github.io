@@ -35,7 +35,7 @@ This is an audio-visual release accompanied by three videos and a limited run of
 
 *~(click to open)~*
 [<img alt="Elmelin Video" class="centered-vid" src="ElmelinCover.jpg" />](https://youtu.be/npcC32gz2KQ)
-[<img alt="VFS Video" class="centered-vid" src="VFSCover.jpg" />](https://www.youtube.com/watch?v=uZPCZdTdytw)
+[<img alt="VFS Video" class="centered-vid" src="VFSCover.jpg" />](https://youtu.be/3WujZG_iTCk)
 [<img alt="Squat Video" class="centered-vid" src="SquatCover.jpg" />](https://youtu.be/6q2TUbAAJ_o)
 
 ---
