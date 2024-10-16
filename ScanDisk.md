@@ -8,7 +8,7 @@ permalink: /
 
 # Partial Defrag: ScanDisk [STRATA]
 
-Listening & Download link for Partial Defrag *ScanDisk* on STRATA for Radio X Press X Personal enjoyment
+Listening & Download link for Partial Defrag *ScanDisk* on STRATA for radio X press X personal enjoyment
 
 ### Release Date: 29.11.24
 <br/>
@@ -31,7 +31,7 @@ This is an audio-visual release accompanied by three videos and a limited run of
   
 ---
 ## Videos
-**ScanDisk** is accompanied by three videos created by the artists mixing 3D scans and phone footage of London's suburbs. The material was reassembled into fictional urban-industrial scenes. 
+**ScanDisk** is accompanied by three videos blending 3D scans with phone footage of London's suburbs.
 
 *~(click to open)~*
 [<img alt="Elmelin Video" class="centered-vid" src="ElmelinCover.jpg" />](https://youtu.be/npcC32gz2KQ)
