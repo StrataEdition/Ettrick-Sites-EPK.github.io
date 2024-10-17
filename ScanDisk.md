@@ -58,5 +58,4 @@ This is an audio-visual release accompanied by three videos and a limited run of
   
 ---
 ## Artist Bio
-Partial Defrag (b. 9/8/24) [28/32GB] 
-*"In the empty space of a semi-compressed hard drive, melodic phrases keep on playing."*
+Partial Defrag: *"In the empty space of a semi-compressed hard drive, melodic phrases keep on playing."*
