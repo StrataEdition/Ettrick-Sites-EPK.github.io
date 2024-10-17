@@ -12,7 +12,7 @@ Listening & Download link for Partial Defrag *ScanDisk* on STRATA for radio X pr
 
 ### Release Date: 29.11.24
 <br/>
-[Private Streaming & Download link](https://soundcloud.com/strata-edition/sets/scandisk) (*Please do not share*)
+[Private Streaming & Download link](https://on.soundcloud.com/52nDFJmNBvthddgR9) (*Please do not share*)
 For all enquiries, please contact: **strata.edition@gmail.com**
 
 ---
