@@ -12,7 +12,7 @@ Listening & Download link for Partial Defrag *ScanDisk* on STRATA for radio X pr
 
 ### Release Date: 29.11.24
 <br/>
-[Private Streaming & Download link](hello) (*Please do not share*)
+[Private Streaming & Download link](https://soundcloud.com/strata-edition/sets/scandisk) (*Please do not share*)
 For all enquiries, please contact: **strata.edition@gmail.com**
 
 ---
@@ -34,9 +34,9 @@ This is an audio-visual release accompanied by three videos and a limited run of
 **ScanDisk** is accompanied by three videos blending 3D scans with phone footage of London's suburbs.
 
 *~(click to open)~*
-[<img alt="Elmelin Video" class="centered-vid" src="ElmelinCover.jpg" />](https://youtu.be/npcC32gz2KQ)
 [<img alt="VFS Video" class="centered-vid" src="VFSCover.jpg" />](https://youtu.be/3WujZG_iTCk)
-[<img alt="Squat Video" class="centered-vid" src="SquatCover.jpg" />](https://youtu.be/6q2TUbAAJ_o)
+[<img alt="Elmelin Video" class="centered-vid" src="ElmelinCover.jpg" />](https://youtu.be/npcC32gz2KQ)
+[<img alt="Squat Video" class="centered-vid" src="SquatCover.jpg" />](https://youtu.be/KwstTPfkMf0)
 
 ---
 ## Tracklist
