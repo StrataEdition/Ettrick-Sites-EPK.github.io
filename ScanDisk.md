@@ -10,7 +10,7 @@ permalink: /
 
 Listening & Download link for Partial Defrag *ScanDisk* on STRATA for radio X press X personal enjoyment
 
-### Release Date: 29.11.24
+### Release Date: 22.11.24
 <br/>
 [Private Streaming & Download link](https://on.soundcloud.com/52nDFJmNBvthddgR9) (*Please do not share*)
 For all enquiries, please contact: **strata.edition@gmail.com**
@@ -58,4 +58,4 @@ This is an audio-visual release accompanied by three videos and a limited run of
   
 ---
 ## Artist Bio
-Partial Defrag: *"In the empty space of a semi-compressed hard drive, melodic phrases keep on playing."*
+Partial Defrag: *"In the empty space of a semi-compressed hard drive."*
