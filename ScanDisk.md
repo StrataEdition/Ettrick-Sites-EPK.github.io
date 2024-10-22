@@ -6,7 +6,7 @@ permalink: /
 
 <img src="logo.png" alt="Strata Logo" class="centered-logo">
 
-# Partial Defrag: ScanDisk [STRATA]
+# Partial Defrag: ScanDisk
 
 Listening & Download link for Partial Defrag *ScanDisk* on STRATA for radio X press X personal enjoyment
 
