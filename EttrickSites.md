@@ -20,7 +20,7 @@ For all enquiries, please contact: **strata.edition@gmail.com**
 ---
 **Ettrick Sites** is the debut release of the London-based collaborative project **Gloves to Bouquet**. Conceived and produced during a week-long reclusive trip to Loch Ettrick, each song unfolds as a piece of speculative fiction—caricatures spanning rotten fantasy (*Tales To Spin*) to digital horror (*Sleeper Build*).
 
-Ettrick Sites is an abandoned set from an '80s horror movie, obscured by artificial fog and darkness. Its gaudy backlight burns hot. It’s just the camera operator, waiting for something to happen. Ghostly images of B-horror movies, Westerns, fantasy, and cartoons emerge from the haze—fading in and out, distorting, morphing, and combining.
+*Ettrick Sites is an abandoned set from an '80s horror movie, obscured by artificial fog and darkness. Its gaudy backlight burns hot. It’s just the camera operator, waiting for something to happen. Ghostly images of B-horror movies, Westerns, fantasy, and cartoons emerge from the haze—fading in and out, distorting, morphing, and combining.*
   
 <img src="EttrikSitesCover.png" alt="Ettrik Sites Cover" class="centered-image">
 
@@ -28,7 +28,7 @@ Ettrick Sites is an abandoned set from an '80s horror movie, obscured by artific
 ## Videos
 **Ettrick Sites** is accompanied by a video of Tales to Spin. 
 
-*~(click to open)~*
+    *~(click to open)~*
 [<img alt="Tales to Spin" class="centered-vid" src="TalesCover.jpg" />](https://youtu.be/AvJs1v066kA)
 
 
