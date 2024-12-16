@@ -27,8 +27,8 @@ For all enquiries, please contact: **strata.edition@gmail.com**
 ---
 ## Videos
 **Ettrick Sites** is accompanied by a video of Tales to Spin. 
+### ~(click to open)~
 
-*~(click to open)~*
 [<img alt="Tales to Spin" class="centered-image" src="TalesCover.jpg" />](https://youtu.be/AvJs1v066kA)
 
 
