@@ -22,7 +22,7 @@ For all enquiries, please contact: **strata.edition@gmail.com**
 
 **Ettrick Sites** is the debut release of the London-based collaborative project **Gloves to Bouquet**. Conceived and produced during a week-long reclusive trip to Loch Ettrick, each song unfolds as a piece of speculative fiction—caricatures spanning rotten fantasy (*Tales To Spin*) to digital horror (*Sleeper Build*).
 
-<img src="EttrikSitesCover.png" alt="Ettrik Sites Cover" class="centered-image">
+<img src="EttrickSitesCover.png" alt="Ettrik Sites Cover" class="centered-image">
 
 ---
 ## Videos
