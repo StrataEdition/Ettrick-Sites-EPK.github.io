@@ -37,14 +37,16 @@ For all enquiries, please contact: **strata.edition@gmail.com**
 2. Tales To Spin
 3. Billy Walk Cycle
 4. Blue Dragon
-<br/>
+
+  
 ---
 ## Credits
 - Written and Produced: **Jonas Pequeno** and **Alexander MacKinnon**
 -	Mixing & Mastering: **Jonas Pequeno**
 -	Cover Design: **Zhe Con** and **Alexander MacKinnon**
 -	Video Productions: **Jonas Pequeno** and **Alexander MacKinnon**
-<br/>
+
+  
 ---
 ## Artist Bio
 Gloves to Bouquet is a collaborative project consisting of Alexander MacKinnon and Jonas Pequeno.
