@@ -13,7 +13,7 @@ Listening & Download link for Gloves to Bouquet *Ettrick Sites* on STRATA for ra
 ### Release Date: 17.01.25 (Bandcamp, NINA Protocol)
 <br/>
 [Private Streaming Link](https://on.soundcloud.com/52nDFJmNBvthddgR9) (*Please do not share*)
-[Private Download Link](https://drive.google.com/drive/folders/1BUNzDlvQYPKmk4WAZI8S4Yv46X6m0yv8?usp=sharing) (*Please do not share*)
+[Private Download Link](https://drive.google.com/drive/folders/1FIs8TBnxo_RsFuXn9e8zvKQpqvLfNhaX?usp=sharing) (*Please do not share*)
 
 For all enquiries, please contact: **strata.edition@gmail.com**
 
@@ -34,7 +34,7 @@ For all enquiries, please contact: **strata.edition@gmail.com**
 ---
 ## Tracklist
 1. Sleeper Build
-2. Tales To Spin
+2. Tales to Spin
 3. Billy Walk Cycle
 4. Blue Dragon
 
