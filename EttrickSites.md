@@ -26,7 +26,7 @@ For all enquiries, please contact: **strata.edition@gmail.com**
 
 ---
 ## Videos
-**Ettrick Sites** is accompanied by a video of Tales to Spin. Read the coverage on [Krisis Publishing](https://troublers.substack.com/p/troublers-04)
+**Ettrick Sites** is accompanied by a video of [Tales to Spin](https://youtu.be/AvJs1v066kA). Read the coverage on [Krisis Publishing](https://troublers.substack.com/p/troublers-04)
 ### ~(click to open)~
 
 [<img alt="Tales to Spin" class="centered-image" src="TalesCover.jpg" />](https://youtu.be/AvJs1v066kA)
